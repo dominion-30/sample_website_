@@ -1,0 +1,1 @@
+This repository contains the files for the sample website in Learn Enough HTML to Be Dangerous tutorial by Michael Hartl. This also marks my second attempt at trying this tutorial and a continuation of my web development journey.
